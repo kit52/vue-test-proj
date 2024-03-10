@@ -1,35 +1,88 @@
-@import './base.css';
+:root {
+  --navbar-height: 50px;
+  --sidebar-width: 300px;
+  --sidebar-width-collapsed: 80px;
+  --violet-1: #107dc6;
+  --violet-2: #1d91df;
+  --violet-3: #9acdf0;
+  --violet-4: #0c6cac;
+  --violet-5: #c5dcec;
+  --violet-6: #8c5b93;
+  --light: #f4fcfe;
+  --light-2: #fff8ec;
+  --brown-color-1: #eee5d4;
+  --brown-color-2: #75d1a0;
+  --brown-color-3: #e4c691;
+  --brown-color-4: #9acdf0;
+  --brown-color-5: #34527e;
+  --brown-color-6: #34527e;
+  --brown-color-7: #de981e;
+  --brown-color-8: #fff0d4;
+  --brown-color-9: #4a5a71;
+  --brown-color-10: #c89d71;
+  --brown-color-11: #34527e;
+  --brown-color-12: #d7effb;
+  --brown-color-13: #b8885b;
+  --brown-color-14: #829cb4;
+  --brown-color-15: #a28d78;
+  --brown-color-16: #c2915f;
+  --green-1: #e5e6c3;
+  --grey-1: #f3eded;
+  --grey-2: #bfebf4;
+  --red: #fedddd;
+  --red2: #b57878;
+  --red3: #eebaaf;
+  --red4: #973737;
+  --red5: #e1000e;
+  --green: #62b949;
 
-#app {
-  max-width: 1280px;
+  --blue-1: #e3f7fc;
+  --blue-2: #dff2ff;
+  --blue-3: #f4fcfe;
+  --blue-4: #71aadb;
+  --blue-5: #5b8bb4;
+  --blue-6: #aae2fa;
+  --blue-7: #3e8a9d;
+  --green-1: #63b98b;
+
+  --white: #fff;
+  --bg: #fff4ec;
+  --main-blue: #23315e;
+  --main-orange: #f98d3c;
+  --d_pearch: #de6163;
+  --w_pearch: #f66e70;
+  --DIV3: #f66e70;
+  --DIV3-more: #df6364;
+  --DIV4: #344684;
+  --DIV1-more: #627dab;
+  --DIV2: #f6e89f;
+  --DIV2-more: #e3d692;
+  --DIV2-text: #484119;
+  --DIV5-more: #f4f3f3;
+  --DIV1: #a7d0e6;
+  --brown: #644007;
+  --blue-1: #6aa8d1;
+  --red-1: #c73641;
+  --green-2: #0cb483;
+}
+* {
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+svg {
+  display: block;
+}
+
+.container {
+  max-width: 1240px;
+  padding: 0 20px;
   margin: 0 auto;
-  padding: 2rem;
-  font-weight: normal;
 }
-
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
-}
-
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
-}
-
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
-
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg);
 }

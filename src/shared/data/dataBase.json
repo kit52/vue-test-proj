@@ -1,0 +1,435 @@
+{
+    "open_book": "Открыть ПОЗНАНИУМ",
+    "profile": "Профиль",
+    "logout": "Выйти",
+    "login": "Войти",
+    "contacts": "Контакты",
+    "shop": "Магазин",
+    "about": "О нас",
+    "all rights reserved": "ПОЗНАНИУМ, все права защищены",
+    "user_agreement": "Пользовательское соглашение",
+    "support": "Поддержка",
+    "in_profile": "Перейти в профиль",
+    "about_project": "О проекте",
+    "cancel": "Отменить",
+    "name": "Имя",
+    "edit": "редактировать",
+    "add_subscribe": "Добавить подписку",
+    "havent_subscribe_active": "Нет активных подписок",
+    "you_not_add_child": "Вы ещё не добавили детей",
+    "please add child": "Для продолжения создайте профиль ребенка",
+    "you_profile": "Мой профиль",
+    "change_password": "изменить пароль",
+    "close": "Закрыть",
+    "child_profile": "Профиль ребёнка",
+    "add_child": "Добавить ребёнка",
+    "add": "Добавить",
+    "dateOfBirth": "Дата рождения",
+    "lastName": "Фамилия",
+    "come_up_with_a_login": "Придумайте логин",
+    "come_up_with_a_password": "Придумайте пароль",
+    "come_up_with_a_password_repeat": "Повторите пароль",
+    "deleting_a_profile": "Удаление профиля",
+    "Are you sure you want to delete the profile": "Вы уверены, что хотите удалить профиль?",
+    "what_delete_info": " Вместе с ним также будут удалены аккаунты, созданные для ваших детей. Кроме того, вы потеряете доступ к уже оплаченным материалам.",
+    "delete_info": " В соответствии с Пользовательским соглашением средства за неистёкший срок доступа не возвращаются.",
+    "delete": "Удалить",
+    "Enter the current password": "Введите текущий пароль",
+    "Edit a child": "Изменить имя ребёнка",
+    "save": "Сохранить",
+    "Delete Account": " Удалить аккаунт",
+    "Deleting an account": "Удаление аккаунта",
+    "Are you sure you want to delete the child's profile": "Вы уверены, что хотите удалить профиль ребёнка?",
+    "Changing the password": "Изменение пароля",
+    "Come up with a new password": "Введите новый пароль",
+    "Confirm the new password": "Повторите новый пароль",
+    "Feedback form": "Форма обратной связи",
+    "to send": "отправить",
+    "Message": "Сообщение",
+    "Entrance": "Вход",
+    "Log in to your account": "Вход в аккаунт",
+    "Register": "Зарегистрироваться",
+    "Forgot your password?": "Не помню пароль",
+    "Login or email": "e-mail",
+    "Changing the profile": "Изменение профиля",
+    "Registration": "Регистрация",
+    "I confirm that I agree with the terms": " Подтверждаю, что согласен с условиями",
+    "User Agreement": "Пользовательского соглашения",
+    "Password Recovery": "Восстановление пароля",
+    "Recover Password": "Восстановить пароль",
+    "Making a subscription": "Оформление подписки",
+    "To buy a subscription, specify the details of the children": "Чтобы купить подписку, укажите данные детей",
+    "Catalog": "Выберите учебники",
+    "Basket": "Корзина",
+    "Choose a language": "Выбрать язык",
+    "Your message has been sent successfully!": "Ваше сообщение успешно отправлено!",
+    "To the main page": "На главную",
+    "Error": "Ошибка",
+    "Oh! It seems something went wrong": "Ой! Кажется, что-то пошло не так.",
+    "Try to reload the page and continue later": "Попробуйте перезагрузить страницу и продолжить позже",
+    "If the error persists, please inform the support service": "Если ошибка повторяется, сообщите в службу поддержки",
+    "Thank you for registering": "Благодарим за регистрацию!",
+    "LinkSendToEmail": " На {{mail}} отправлено письмо с информацией о регистрации и паролем.",
+    "LinkSentToEmailBottom": " Если письмо не пришло, проверьте папку Спам!",
+    "LinkToEmailSendPassword": " На вашу почту отправлено письмо с ссылкой для восстановления пароля.",
+    "Not all fields are filled in": "Не все поля заполнены",
+    "ErrorMailBusy": "Почта уже используется другим пользователем",
+    "ErrorLoginBusy": "Логин занят",
+    "Password error one": "Пароль должен содержать хотя бы одну заглавную букву, одну прописную и одну цифру",
+    "newPasswordLength": "Новый пароль короче 6 символов",
+    "ErrorTextPasswordLength": "Пароль короче 6 символов",
+    "ErrorTextEmail": "Неверный формат адреса почты",
+    "ErrorTextLengthEmail": "Поле почты обязательно к заполнению",
+    "ErrorTextAgree": "Необходимо согласие с пользовательским соглашением",
+    "ErrorTextPasswordCompare": "Пароли не совпадают",
+    "ErrorTextErrorAuth": "Неверный логин или пароль",
+    "ErrorTextErrorСonfirmationEmail": "Пожалуйста, подтвердите свою почту",
+    "ErrorTextErrorCheckLogin": "Такого e-mail и логина не существует",
+    "phoneError": "Телефон должен содержать больше символов",
+    "ErrorTextRestorePassword": "На вашу почту отправлено письмо с ссылкой для восстановления пароля",
+    "childEnterError": "Пожалуйста, зайдите через аккаунт родителя",
+    "ErrorTextNewPassword": "Новый пароль должен содержать хотя бы одну заглавную букву, одну прописную и одну цифру",
+    "ErrorTextInccorectCurrentPassword": "Текущий пароль указан неверно",
+    "ErrorTextSimpleError": "Произошла какая-то ошибка, попробуйте позже",
+    "ErrorTextAccountNotFound": "Аккаунт не найден",
+    "ErrorTextChildNameTaken": "Имя пользователя уже занято",
+    "ErrorTextCantDeleteHaveSubs": "Есть активные подписки, нельзя удалить",
+    "Error An unexpected error has occurred": "An unexpected error has occurred",
+    "month": "месяц",
+    "months": "месяца",
+    "месяцев": "месяцев",
+    "change": "Изменить",
+    "Subject": "Предмет",
+    "Language": "Язык",
+    "Class, age": "Класс, возраст",
+    "Expires": "Оплачено до",
+    "Expired": "Подписка истекла",
+    "Renew subscription": " Продлить подписку",
+    "Children's accounts": "Ваши дети",
+    "Refresh the page": "Обновить страницу",
+    "Class": "Класс",
+    "select a class": "ВЫБРАТЬ класс",
+    "basket_empty": "Ваша корзина пуста!",
+    "to_clear_basket": "Очистить корзину",
+    "total": "Итого",
+    "Payment_Methods": "Способы оплаты:",
+    "Empty_search": "Ничего не найдено",
+    "Go to payment": "Оплатить",
+    "Back to the catalog": "Назад в каталог",
+    "Go to cart": "Перейти к оплате",
+    "You have added all the products to the cart": "Вы добавили все товары в корзину",
+    "password": "Пароль",
+    "logo-header": "/assets/images/icons/logo-white.png",
+    "logo-footer": "https://poznanium.ru/dist/images/LogoRu.png",
+    "successChangePassword": "Пароль был изменён",
+    "inviteIsSend": "Приглашение отправлено на указанную почту",
+    "contactsTitle": "ООО «Центр цифровых разработок» (ООО «ЦЦР»)",
+    "contactsOGRN": "ОГРН: 1117746189604",
+    "contactINN": "ИНН: 7717695006",
+    "contactsAddress": "Юр.адрес: 109112, г. Москва, ул. Никольская, д.11-13, стр.3, эт.3, пом.III",
+    "contactsPhone": "Телефон",
+    "contactsPhoneNumberString": "(989) 047-11-78",
+    "contactsPhoneNumber": "+79890471178",
+    "contactsBtn": "Связаться с нами",
+    "promocode": "Промокод",
+    "applyCode": "Применить промокод",
+    "applyCodeSuccess": "Промокод успешно применён ",
+    "errorPromo0": "Неверный промокод",
+    "errorPromo1": "Промокод более недействителен",
+    "errorPromo2": "Промокод недействителен этому пользователю",
+    "errorPromo3": "Исчерпан лимит использования промокода",
+    "errorPromo4": "Истёк срок использования промокода",
+    "errorPromo5": "Промокод не существует или введён неверно",
+    "send__invite": "Отправить приглaшение",
+    "userNotFound": "Пользователь не найден",
+    "errorPassword5": "пользователь не родитель",
+    "errorPassword4": "E-mail не подтверждён",
+    "errorPassword6": "пароль неверный",
+    "errorCantSendEmail": "не удалось отправить e-mail-уведомление",
+    "Thanks for buy": "Спасибо за покупку!",
+    "InPoznanium": "В ПОЗНАНИУМ",
+    "buySuccessDesc": "Купленные вами товары уже доступны в ПОЗНАНИУМЕ",
+    "Subscription period": "Период подписки",
+    "Subscribe to": "Подписка до",
+    "As a gift": "в подарок",
+    "Download app": "Скачать приложение",
+    "Download app link google": "https://play.google.com/store/apps/details?id=com.CCR.Poznanium",
+    "Download app link apple": "",
+    "_NEW": "NEW",
+    "Go-to-learn": "Приступить к занятиям",
+    "Cabinet": "Личный кабинет",
+    "Legal information": "Правовая информация",
+    "Legal information link": "https://app.poznanium.ru/docs/user_agreement_ru_pos.docx",
+    "user-agreement-link": "/legal/agreement/",
+    "parent data": "Данные родителя",
+    "child data": "Данные ребёнка",
+    "child name": "Укажите имя ребенка",
+    "phonePlaceholder": "Мобильный телефон",
+    "back": "Назад",
+    "Purchased subscriptions": "Купленные подписки",
+    "Buy another subscription": "Купить ещё подписку",
+    "GO TO THE STORE": "ПЕРЕЙТИ В МАГАЗИН",
+    "Care Service": "Напишите нам",
+    "course content": "Что внутри?",
+    "Children": "Ребёнок",
+    "in month": "в месяц",
+    "behind": "за",
+    "discount": "скидка",
+    "big basket text": "За месяц использования нашей программы\n вы сможете убедиться в её эффективности.",
+    "big basket text2": "За полгода использования программы ребёнок сможет полюбить мир ПОЗНАНИУМА,\n а вы увидите плюсы программы в долгосрочной перспективе.",
+    "big basket text3": "За год обучения ребёнок полностью освоит школьную программу, закрепит\n материал и получит те знания, которых уже нет в обычных учебниках.",
+    "Ваша корзина": "Ваша корзина",
+    "Нажимая на кнопку “Перейти к оплате” я подтверждаю, что согласен с условиями": "Нажимая на кнопку “Оплатить”, я подтверждаю, что согласен с условиями ",
+    "empty_subs": "Вы ещё не добавили ни одной подписки",
+    "link to app": "https://test.poznanium.ru/player/index.html",
+    "program": "Программа",
+    "continue": "Продолжить",
+    "downloadText1": "Сейчас вы можете скачать приложение для Android в виде apk, но скоро оно появится в Google play и App store.",
+    "downloadText2": "Пожалуйста, разрешите установку из неизвестного источника. \n Наше приложение абсолютно безопасно!",
+    "downloadText3": "Если у вас возникли технические сложности или вопросы, ",
+    "downloadText4": "напишите нам",
+    "downloadText5": ", и мы обязательно вам поможем!",
+    "registrationText": "",
+    "successByText1": " Благодарим за покупку! \n Вы приобрели доступ на {{month}} \n к следующим материалам:",
+    "For the amount": " На сумму:",
+    "DocumentsPageTitle": "Правовая информация",
+    "DocumentsPageList": [
+        {
+            "text": "Пользовательское соглашение",
+            "link": "/legal/agreement/"
+        },
+        {
+            "text": "Лицензия на образовательную деятельность",
+            "link": "https://app.poznanium.ru/docs/poznanium_lic.pdf"
+        },
+        {
+            "text": "Политика конфиденциальности",
+            "link": "/legal/privacy-policy/"
+        },
+        {
+            "text": "Согласие на обработку персональных данных",
+            "link": "/legal/personal-data/"
+        }
+    ],
+    "catalogSection": {
+        "Title": "Начать заниматься",
+        "subTitle": "Интерактивные учебники дополнительного образования",
+        "tabs": [
+            {
+                "name": "дошкольникам",
+                "cards": [
+                    {
+                        "title": "Азбука",
+                        "textColor": "#23315E",
+                        "img": {
+                            "png": "/assets/images/abc.png",
+                            "webp": "/assets/images/abc.webp"
+                        },
+                        "desc": "для дошкольников",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/alphabet-1",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    },
+                    {
+                        "title": "СКОРО!",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/beforeSchool.png",
+                            "webp": "/assets/images/beforeSchool.webp"
+                        },
+                        "desc": "новые учебники \n и книги для \n дошкольников"
+                    }
+                ]
+            },
+            {
+                "name": "1 класс",
+                "cards": [
+                    {
+                        "title": "Математика",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/math1.png",
+                            "webp": "/assets/images/math1.webp"
+                        },
+                        "desc": "1 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/math-1",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    },
+                    {
+                        "title": "Cловесность",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/lang.png",
+                            "webp": "/assets/images/lang.webp"
+                        },
+                        "desc": "1 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/literature-1",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    },
+                    {
+                        "title": "Окружающий мир",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/nature.png",
+                            "webp": "/assets/images/nature.webp"
+                        },
+                        "desc": "1 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/science-1",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "2 класс",
+                "withBigCard": true,
+                "cards": [
+                    {
+                        "title": "Математика",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/math2.png",
+                            "webp": "/assets/images/math2.webp"
+                        },
+                        "desc": " 2 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/math-2",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    },
+                    {
+                        "title": "Cловесность",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/lang2.png",
+                            "webp": "/assets/images/lang2.webp"
+                        },
+                        "desc": " 2 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/literature-2",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    },
+                    {
+                        "title": "Окружающий мир",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/nature2.png",
+                            "webp": "/assets/images/nature2.webp"
+                        },
+                        "desc": " 2 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/science-2",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "3 класс",
+                "notgrid": true,
+                "cards": [
+                    {
+                        "title": "Окружающий \n мир",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/nature3.png",
+                            "webp": "/assets/images/nature3.webp"
+                        },
+                        "desc": " 3 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/science-3",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    },
+                    {
+                        "title": "Cловесность",
+                        "textColor": "#fff",
+                        "img": {
+                            "png": "/assets/images/lang3.png",
+                            "webp": "/assets/images/lang3.webp"
+                        },
+                        "desc": " 3 класс",
+                        "link": {
+                            "PC": "https://demo.poznanium.ru/literature-3",
+                            "Android": "/download",
+                            "IOS": "/no-mobile"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "NoMobilePage": {
+        "title": "Учебник доступен для ПК",
+        "text": "Пожалуйста, зайдите на сайт с ноутбука или персонального компьютера для начала занятий."
+    },
+    "classesArray": [
+        {
+            "firstName": "Дошкольники",
+            "id": "0"
+        },
+        {
+            "firstName": "1 класс",
+            "id": "1"
+        },
+        {
+            "firstName": "2 класс",
+            "id": "2"
+        },
+        {
+            "firstName": "3 класс",
+            "id": "3"
+        }
+    ],
+    "mo": "мес.",
+    "ActivateTheKey": "Активировать ключ",
+    "ActivateTheKeyProduct": "Активировать ключ продукта",
+    "selectChild": "Выберите ребенка",
+    "Activate": "Активировать",
+    "ActivateTheKeyPlaceholder": "Введите ключ продукта",
+    "ActivateKeySuccessMessage": "Поздравляю! Ваш ключ активирован!",
+    "emptyKeyError": "Поле ключ не должно быть пустым",
+    "registrationActivateKeyApiError6": "Ваш профиль зарегестрирован! Но нам не удалось активировать ключ продукта. Попробуйте активировать его вновь.",
+    "activateKeyRegisterApiError": {
+        "5": "цифровой ключ не существует",
+        "51": "цифровой ключ не активен",
+        "52": "вышел срок действия цифрового ключа",
+        "53": "цифровой ключ уже использован максимальное кол-во раз",
+        "54": "нет товаров по данному цифровому ключу"
+    },
+    "activateKeyApiError": {
+        "1": "неверный токен",
+        "2": "нет такого ключа",
+        "21": "ключ не активен",
+        "22": "вышел срок действия ключа",
+        "23": "вышел лимит использования ключа",
+        "3": "пользователь родитель или не существует",
+        "4": "у пользователя нет родителя",
+        "5": "нет товаров по этому ключу",
+        "6": "не найдены товары",
+        "7": "внутренняя ошибка"
+    },
+    "textbook language": "Язык учебников",
+    "ResetPasswordPageTitle": "Для сброса пароля нажмите на кнопку ниже:",
+    "ResetPasswordPageBtnText": "Сбросить пароль",
+    "ResetPasswordPageText": "Письмо с новым паролем придет на почту, указанную при регистрации. Вы всегда сможете сменить пароль в личном кабинете.",
+    "SuccessResetPasswordText": "Новый пароль отправлен на почту, указанную при регистрации.",
+    "ErrorResetPasswordText1": "Ой!",
+    "ErrorResetPasswordText2": "Что-то пошло не так.",
+    "ErrorResetPasswordText3": "Ссылка, по которой вы перешли, может быть уже не действительна."
+}
